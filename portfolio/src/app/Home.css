@@ -1,0 +1,33 @@
+.HomeBoxContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 25%;
+    margin-top: 80px;
+}
+
+.HomeContainer{
+    display: flex;
+    flex-direction: column;
+    font-size: 35px;
+}
+
+.ImageHome{
+    border-radius: 50%;
+    height: 500px;
+    width: 500px;
+}
+.AbilitiesContainer{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+ 
+}
+.AbilitiesContainer h1{
+    font-size: 25px;
+}
+.description{
+    text-align: center;
+    width: 80%;
+    margin-bottom: 40px;
+}
